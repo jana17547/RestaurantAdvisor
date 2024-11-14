@@ -1,0 +1,57 @@
+.restaurantView {
+	display: flex;
+	justify-content: space-around;
+	font-size: large !important;
+}
+
+.bigDiv3 {
+	width: 30%;
+	display: flex;
+	flex-direction: column;
+}
+
+.leftDiv3 {
+	
+    background-color: rgb(253, 255, 175) !important;
+}
+.description3{
+   margin-left: 10px;
+}
+.name3{
+    align-self: center;
+}
+
+
+.rightDiv3 {
+	border: 3px black;
+	margin-bottom: 14px !important;
+}
+
+.div3 {
+	margin-bottom: 15px;
+}
+
+.ui.segment.price3 {
+	font-size: large;
+	background-color: rgb(244, 247, 71);
+	color: black;
+}
+
+.testButton3 {
+	height: fit-content;
+}
+
+.reviewInput3 {
+	background-color: rgb(253, 255, 175) !important;
+	display: flex;
+	flex-direction: column;
+}
+
+.bottomInput3 {
+	display: flex;
+	justify-content: space-between;
+}
+
+textarea {
+	resize: vertical;
+}
